@@ -27,5 +27,5 @@ $$
 
 The coefficient convention is documented in [ENDF-102 (2023)](https://www.nndc.bnl.gov/endfdocs/ENDF-102-2023.pdf).
 
-Both formats contain center-of-mass energies in the first column, `E`.
+Both formats contain center-of-mass energies in eV in the first column, `E`.
 The original energy values in the IAEA records are not center-of-mass energies and were converted before being included in these tables.
